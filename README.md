@@ -1,4 +1,4 @@
-# `greek` library
+ `greek` library
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-## Current version: 9.0.0
+## Current version: 9.1.0
 
 Status:  **active development**. [Release notes](releases.md).
 

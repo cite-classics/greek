@@ -1,5 +1,7 @@
 # `greek` library: release notes
 
+**9.1.0**: publishing to terracotta.hpcc.uh.edu
+
 **9.0.0**: bug fix to package-level `asciiOf` and `ucodeOf` methods requires
 API change to optional parameter. And so we get to 9.0.0.
 
